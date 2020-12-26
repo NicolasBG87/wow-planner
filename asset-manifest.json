@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wow-planner/static/css/main.92dc8678.chunk.css",
+    "main.js": "/wow-planner/static/js/main.48c544f2.chunk.js",
+    "main.js.map": "/wow-planner/static/js/main.48c544f2.chunk.js.map",
+    "runtime-main.js": "/wow-planner/static/js/runtime-main.31b64922.js",
+    "runtime-main.js.map": "/wow-planner/static/js/runtime-main.31b64922.js.map",
+    "static/css/2.4d98ed14.chunk.css": "/wow-planner/static/css/2.4d98ed14.chunk.css",
+    "static/js/2.6f755ed9.chunk.js": "/wow-planner/static/js/2.6f755ed9.chunk.js",
+    "static/js/2.6f755ed9.chunk.js.map": "/wow-planner/static/js/2.6f755ed9.chunk.js.map",
+    "index.html": "/wow-planner/index.html",
+    "static/css/2.4d98ed14.chunk.css.map": "/wow-planner/static/css/2.4d98ed14.chunk.css.map",
+    "static/css/main.92dc8678.chunk.css.map": "/wow-planner/static/css/main.92dc8678.chunk.css.map",
+    "static/js/2.6f755ed9.chunk.js.LICENSE.txt": "/wow-planner/static/js/2.6f755ed9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b64922.js",
+    "static/css/2.4d98ed14.chunk.css",
+    "static/js/2.6f755ed9.chunk.js",
+    "static/css/main.92dc8678.chunk.css",
+    "static/js/main.48c544f2.chunk.js"
+  ]
+}
